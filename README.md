@@ -1,4 +1,4 @@
-# KDE_SAT
+# SAT
 
 Set of customizations of various utilities to look like my darling baby Saturn from [*Heaven Will Be Mine*](https://store.steampowered.com/app/836450/Heaven_Will_Be_Mine/).
 
