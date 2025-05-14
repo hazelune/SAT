@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel/Splash",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "hazelune0@gmail.com",
+                "Name": "hazelune"
+            }
+        ],
+        "Category": "",
+        "Description": "Saturn's boot logo from Heaven Will Be Mine, no background, glitchy",
+        "Id": "boot_glitch",
+        "License": "GPLv3",
+        "Name": "SAT Boot Glitchy",
+        "Website": ""
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2"
+}
+
